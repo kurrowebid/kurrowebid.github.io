@@ -1,0 +1,558 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Marvy - Ultimate Elementor Animation addons Pro\n"
+"POT-Creation-Date: 2020-12-09 18:00+0530\n"
+"PO-Revision-Date: 2020-12-09 18:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: marvy-animation-addons.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: elementor/animation/MarvyBirdsAnimation.php:18
+#: elementor/animation/MarvyCellsAnimation.php:18
+#: elementor/animation/MarvyDNAAnimation.php:22
+#: elementor/animation/MarvyDigitalStreamAnimation.php:18
+#: elementor/animation/MarvyDotsAnimation.php:18
+#: elementor/animation/MarvyFloatingHeartAnimation.php:22
+#: elementor/animation/MarvyFluidAnimation.php:18
+#: elementor/animation/MarvyFogAnimation.php:18
+#: elementor/animation/MarvyGlobeAnimation.php:18
+#: elementor/animation/MarvyHaloAnimation.php:18
+#: elementor/animation/MarvyNetAnimation.php:18
+#: elementor/animation/MarvyParticlesWaveAnimation.php:22
+#: elementor/animation/MarvyTrunkAnimation.php:18
+msgid "<div style=\"float: right\"><img src=\""
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:25
+msgid "Enable Birds Animation"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:33
+#: elementor/animation/MarvyDNAAnimation.php:37
+#: elementor/animation/MarvyDigitalStreamAnimation.php:33
+#: elementor/animation/MarvyDotsAnimation.php:33
+#: elementor/animation/MarvyFluidAnimation.php:43
+#: elementor/animation/MarvyGlobeAnimation.php:33
+#: elementor/animation/MarvyHaloAnimation.php:33
+#: elementor/animation/MarvyNetAnimation.php:33
+#: elementor/animation/MarvyTrunkAnimation.php:45
+msgid "Background Color"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:45
+msgid "Background Opacity"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:60
+msgid "Wings ColorMode"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:64
+msgid "Lerp"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:65
+msgid "Variance"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:66
+msgid "Lerp Gradient"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:67
+msgid "Variance Gradient"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:78
+msgid "Wings Color1"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:90
+msgid "Wings Color2"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:102
+msgid "Quantity"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:117
+msgid "Bird Size"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:132
+msgid "Wing Span"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:147
+msgid "Speed Limit"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:162
+msgid "Separation"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:177
+msgid "Alignment"
+msgstr ""
+
+#: elementor/animation/MarvyBirdsAnimation.php:192
+msgid "Cohesion"
+msgstr ""
+
+#: elementor/animation/MarvyCellsAnimation.php:25
+msgid "Enable Cells Animation"
+msgstr ""
+
+#: elementor/animation/MarvyCellsAnimation.php:33
+#: elementor/animation/MarvyDotsAnimation.php:45
+#: elementor/animation/MarvyFloatingHeartAnimation.php:37
+#: elementor/animation/MarvyGlobeAnimation.php:45
+msgid "Color1"
+msgstr ""
+
+#: elementor/animation/MarvyCellsAnimation.php:45
+#: elementor/animation/MarvyDotsAnimation.php:57
+#: elementor/animation/MarvyFloatingHeartAnimation.php:49
+#: elementor/animation/MarvyGlobeAnimation.php:57
+msgid "Color2"
+msgstr ""
+
+#: elementor/animation/MarvyCellsAnimation.php:57
+#: elementor/animation/MarvyDotsAnimation.php:69
+#: elementor/animation/MarvyGlobeAnimation.php:69
+#: elementor/animation/MarvyHaloAnimation.php:57
+#: elementor/animation/MarvyParticlesWaveAnimation.php:61
+msgid "Size"
+msgstr ""
+
+#: elementor/animation/MarvyCellsAnimation.php:72
+#: elementor/animation/MarvyFogAnimation.php:111
+msgid "Speed"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:29
+msgid "Enable DNA Animation"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:49
+msgid "Slow"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:64
+msgid "Fill Color 1"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:76
+msgid "Border Color 1"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:88
+msgid "Fill Color 2"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:100
+msgid "Border Color 2"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:112
+msgid "Opacity"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:127
+msgid "Brightness"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:142
+msgid "Border Width"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:157
+msgid "Particles Count"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:172
+msgid "Particles Size"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:187
+msgid "Particles Color"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:198
+msgid "Bonds Transparent"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:210
+msgid "DNA-1 Bonds Count"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:225
+msgid "DNA-2 Bonds Count"
+msgstr ""
+
+#: elementor/animation/MarvyDNAAnimation.php:240
+msgid "DNA-3 Bonds Count"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:25
+msgid "Enable Digital Stream"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:45
+msgid "Stream Color Type"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:49
+msgid "Random"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:50
+msgid "Custom"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:61
+msgid "Stream Color"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:74
+msgid "Alpha"
+msgstr ""
+
+#: elementor/animation/MarvyDigitalStreamAnimation.php:89
+msgid "Noise Distance"
+msgstr ""
+
+#: elementor/animation/MarvyDotsAnimation.php:25
+msgid "Enable Dots Animation"
+msgstr ""
+
+#: elementor/animation/MarvyDotsAnimation.php:84
+#: elementor/animation/MarvyNetAnimation.php:87
+#: elementor/animation/MarvyTrunkAnimation.php:57
+msgid "Spacing"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:29
+msgid "Enable Floating Heart"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:61
+msgid "Color3"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:73
+msgid "Color4"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:85
+msgid "From Degree"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:107
+msgid "To Degree"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:129
+msgid "Box Shadow Horizontal Offset"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:151
+msgid "Box Shadow Vertical Offset"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:173
+msgid "Box Shadow Blur"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:195
+msgid "Heart Size"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:208
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:221
+msgid "Square Count"
+msgstr ""
+
+#: elementor/animation/MarvyFloatingHeartAnimation.php:234
+msgid "Square Size"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:25
+msgid "Enable Fluid"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:32
+msgid "Enable Hover"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:55
+msgid "Sim Resolution"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:59
+msgid "32"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:60
+msgid "64"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:61
+msgid "128"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:62
+msgid "256"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:73
+msgid "Quality"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:77
+msgid "High"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:78
+msgid "Medium"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:79
+msgid "Low"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:80
+msgid "Very Low"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:91
+msgid "Multi Color"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:93
+#: elementor/animation/MarvyFluidAnimation.php:120
+#: elementor/animation/MarvyFluidAnimation.php:225
+msgid "Yes"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:94
+#: elementor/animation/MarvyFluidAnimation.php:121
+#: elementor/animation/MarvyFluidAnimation.php:226
+msgid "No"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:105
+#: elementor/animation/MarvyNetAnimation.php:45
+#: elementor/animation/MarvyParticlesWaveAnimation.php:89
+#: elementor/animation/MarvyTrunkAnimation.php:33
+msgid "Color"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:118
+msgid "Sun Rays"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:132
+msgid "Sun Rays Weight"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:148
+msgid "Density"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:163
+msgid "Pressure"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:178
+msgid "Velocity Diffusion"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:193
+msgid "Vorticity"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:208
+msgid "Splat Radius"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:223
+msgid "Bloom"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:237
+msgid "Bloom Intensity"
+msgstr ""
+
+#: elementor/animation/MarvyFluidAnimation.php:253
+msgid "Threshold"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:25
+msgid "Enable Fog Animation"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:33
+msgid "Highlight Color"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:45
+msgid "Midtone Color"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:57
+msgid "Lowlight Color"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:69
+#: elementor/animation/MarvyHaloAnimation.php:45
+msgid "Base Color"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:81
+msgid "Blur Factor"
+msgstr ""
+
+#: elementor/animation/MarvyFogAnimation.php:96
+msgid "Zoom"
+msgstr ""
+
+#: elementor/animation/MarvyGlobeAnimation.php:25
+msgid "Enable Globe Animation"
+msgstr ""
+
+#: elementor/animation/MarvyHaloAnimation.php:25
+msgid "Enable Halo Animation"
+msgstr ""
+
+#: elementor/animation/MarvyHaloAnimation.php:72
+msgid "Amplitude Factor"
+msgstr ""
+
+#: elementor/animation/MarvyHaloAnimation.php:87
+msgid "xOffset"
+msgstr ""
+
+#: elementor/animation/MarvyHaloAnimation.php:102
+msgid "yOffset"
+msgstr ""
+
+#: elementor/animation/MarvyNetAnimation.php:25
+msgid "Enable Net Animation"
+msgstr ""
+
+#: elementor/animation/MarvyNetAnimation.php:57
+msgid "Points"
+msgstr ""
+
+#: elementor/animation/MarvyNetAnimation.php:72
+msgid "Max Distance"
+msgstr ""
+
+#: elementor/animation/MarvyNetAnimation.php:102
+msgid "Show Dots"
+msgstr ""
+
+#: elementor/animation/MarvyNetAnimation.php:105
+msgid "Show"
+msgstr ""
+
+#: elementor/animation/MarvyNetAnimation.php:106
+msgid "Hide"
+msgstr ""
+
+#: elementor/animation/MarvyParticlesWaveAnimation.php:29
+msgid "Enable Particles Wave Animation"
+msgstr ""
+
+#: elementor/animation/MarvyParticlesWaveAnimation.php:36
+msgid "Use Default Background"
+msgstr ""
+
+#: elementor/animation/MarvyParticlesWaveAnimation.php:48
+msgid "Count"
+msgstr ""
+
+#: elementor/animation/MarvyParticlesWaveAnimation.php:76
+msgid "Delay"
+msgstr ""
+
+#: elementor/animation/MarvyTrunkAnimation.php:25
+msgid "Enable Trunk Animation"
+msgstr ""
+
+#: elementor/animation/MarvyTrunkAnimation.php:72
+msgid "Chaos"
+msgstr ""
+
+#: utils/helpers-pro.php:197
+msgid ""
+"<strong>Marvy Animation Addons - Pro</strong> requires <strong>Marvy - "
+"Ultimate Elementor Animation addons</strong> plugin to be active. Please "
+"activate Marvy Animation Addons - Lite for Marvy Animation Pro to continue."
+msgstr ""
+
+#: utils/helpers-pro.php:198
+msgid "Activate Marvy Addons for Elementor"
+msgstr ""
+
+#: utils/helpers-pro.php:201
+msgid ""
+"<strong>Marvy Animation Addons - Pro</strong> requires <strong>Marvy - "
+"Ultimate Elementor Animation addons</strong> plugin to be installed and "
+"activated. Please install Marvi Animation Addons - Lite for Marvy Animation "
+"Pro to continue."
+msgstr ""
+
+#: utils/helpers-pro.php:202
+msgid "Install Marvy Addons for Elementor"
+msgstr ""
+
+#: utils/helpers-pro.php:216
+msgid ""
+"<strong>Marvy Animation Addons - Pro</strong> requires <strong>License Code</"
+"strong> for use pro features. Please enter license code for Marvy Animation "
+"Pro to continue."
+msgstr ""
+
+#: utils/helpers-pro.php:217
+msgid "Add License Code for Marvy Animation Addons Pro"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Marvy - Ultimate Elementor Animation addons Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://iqonicthemes.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Iqonic Design"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://iqonic.design/"
+msgstr ""

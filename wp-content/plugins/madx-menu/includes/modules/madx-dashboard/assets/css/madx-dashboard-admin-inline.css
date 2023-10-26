@@ -1,0 +1,9 @@
+#adminmenu #toplevel_page_madx-dashboard a[href*="admin.php?page=madx-dashboard-license-page&subpage=license-manager"] {
+	color: #4aa5f5;
+}
+#adminmenu #toplevel_page_madx-dashboard a[href="admin.php?page=madx-dashboard-upsale-page"] {
+	color: #F5C546;
+}
+#adminmenu #toplevel_page_madx-dashboard a[href*="https://account.crocoblock.com/upgrade"] {
+	color: #F5C546;
+}

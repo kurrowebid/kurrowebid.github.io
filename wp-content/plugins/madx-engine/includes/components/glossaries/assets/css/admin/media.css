@@ -1,0 +1,9 @@
+.madx-engine-media {
+	display: flex;
+	align-items: center;
+	font-style: italic;
+}
+
+.madx-engine-media__name {
+	margin: 0 15px 0 0;
+}
